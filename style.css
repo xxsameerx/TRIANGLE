@@ -143,3 +143,18 @@ img {
 .header{
   border: 5px solid red;
 }
+.form{
+  border: 2px solid red;
+  max-width: 30%;
+  margin: auto;
+  background-color: aqua;
+}
+.formula-div{
+  max-width: 15%;
+  margin: auto;
+  color: red;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  padding: 0.3rem;
+  border: 2px dashed green;
+}

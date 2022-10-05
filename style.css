@@ -158,3 +158,9 @@ img {
   padding: 0.3rem;
   border: 2px dashed green;
 }
+.form-quiz{
+  border: 2px solid red;
+  max-width: 70%;
+  margin: auto;
+  background-color: aqua;
+}
